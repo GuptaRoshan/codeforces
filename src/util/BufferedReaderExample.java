@@ -14,6 +14,7 @@ public class BufferedReaderExample {
             String s = br.readLine();
             System.out.println(s);
         }
+
     }
 
 }
